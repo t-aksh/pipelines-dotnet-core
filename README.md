@@ -1,4 +1,4 @@
-Doing hands-on with the DevOps pipeline.
+Doing hands-on with the DevOps pipeline: More changes
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
